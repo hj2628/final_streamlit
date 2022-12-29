@@ -1,0 +1,7 @@
+matplotlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_croot-hkd3cnd2/matplotlib-suite_1647506470899/work
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+pandas==1.4.2
+pytesseract==0.3.10
+streamlit==1.13.0
+tesseract==0.1.3
